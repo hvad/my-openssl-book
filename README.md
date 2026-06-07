@@ -35,5 +35,3 @@ The book is structured sequentially to guide you from artisanal execution to mod
 
 Use the navigation sidebar on the left to move between chapters. Every command, configuration block, and architectural 
 pattern in this guide is designed to be copied, adapted, and integrated directly into your infrastructure blueprints.
-
-*Let's get started by defining our initial topology in **Chapter 1**.*
