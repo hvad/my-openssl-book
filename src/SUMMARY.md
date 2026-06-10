@@ -27,5 +27,4 @@
 - [Chapter 5: Web Server Configuration - Apache HTTPD OCSP Stapling](chapters/05-apache-ocsp-stapling.md)
     - [5.1 File Placement Standards](chapters/05-01-apache-file-placement.md)
     - [5.2 Apache VirtualHost Configuration](chapters/05-02-apache-configuration.md)
-    - [5.3 Enabling Modules & Validation](chapters/05-03-apache-validation.md)
-    - [5.4 Troubleshooting & SSL Debug Mode](chapters/05-04-apache-debugging.md)
+    - [5.3 Validation & Troubleshooting](chapters/05-03-apache-validation.md)
